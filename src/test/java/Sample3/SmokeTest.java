@@ -8,7 +8,7 @@ public class SmokeTest {
 	@Test
 	public void Smokecontact()
 	{
-		System.out.println("Insidfdhghgfgde svbfgmoke create contact....");
+		System.out.println("Insidfdhghgfgde svbhgdhjfgmoke create defefe contact....");
 	}
 
 }
